@@ -1,0 +1,32 @@
+Tasks for Weather Prediction App:
+
+1. Data Collection:
+   - [ ] Extract data from the Excel file (Predpoved_pocasie_022.xlsx). +
+   - [ ] Explore additional sources for historical weather data.
+
+2. Data Preprocessing:
+   - [ ] Handle missing values in the dataset.
+   - [ ] Convert data types as necessary (e.g., datetime conversion).
+   - [ ] Extract relevant features for model training.
+
+3. Model Training:
+   - [ ] Choose a machine learning model for weather prediction.
+   - [ ] Implement code for splitting data into training and testing sets.
+   - [ ] Train the chosen model on the training data.
+
+4. Model Evaluation:
+   - [ ] Evaluate the trained model's performance using appropriate metrics.
+   - [ ] Document the evaluation results.
+
+5. Integration with OpenWeather API:
+   - [ ] Register for an API key on OpenWeatherMap.
+   - [ ] Write code to fetch current weather data using the API.
+   - [ ] Handle errors and rate limits when making API requests.
+
+6. Deployment as an API:
+   - [ ] Create Flask or Django API endpoints for weather predictions.
+   - [ ] Deploy the API on a server (e.g., AWS, Heroku).
+
+7. Testing and Refinement:
+   - [ ] Test the prediction app thoroughly.
+   - [ ] Gather feedback and refine the model or API as needed.

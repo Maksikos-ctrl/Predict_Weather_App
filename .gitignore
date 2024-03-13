@@ -1,0 +1,16 @@
+# Ignore pipx folders
+.pipx/
+
+# Ignore specific path
+/home/maksikos973/Desktop/UniShit/2 year(summer semester)/IKT_project/Predict_weather_app/
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore all .pyc files in the directory
+__pycache__/
+
+# ignore  all .pyc files in the src directory
+src/**/__pycache__/
+
+
