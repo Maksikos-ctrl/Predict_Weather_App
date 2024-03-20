@@ -13,4 +13,7 @@ __pycache__/
 # ignore  all .pyc files in the src directory
 src/**/__pycache__/
 
+# ignore weather
+weather/
+
 
